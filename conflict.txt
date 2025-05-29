@@ -1,3 +1,5 @@
 Line 1: Hello from main
 Line 2: This is from branchA
+
 Line 2: This is from branchB
+Line 2: This is from branchA
